@@ -13,7 +13,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=googlechrome)
 ![Mongodb](https://img.shields.io/badge/Mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=008000)
-![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge)
 ![Xmind](https://img.shields.io/badge/Xmind-090909?style=for-the-badge&logo=xmind&logoColor=008000)
 
 
