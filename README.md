@@ -23,7 +23,7 @@
 * [Test-Cases](https://github.com/immergor/TestCases)
 * [Bug-Reports](https://github.com/immergor/BugReports)
 * [SQL Queries](https://github.com/immergor/SQL)
-* [Postman Collections](https://github.com/immergor/Postman)
+* [Postman](https://github.com/immergor/Postman)
 
 ## Follow me
 
